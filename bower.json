@@ -1,0 +1,21 @@
+{
+  "name": "gnosis-js-core",
+  "version": "0.0.1",
+  "homepage": "https://github.com/celston/gnosis-js-core",
+  "description": "Basic helper functions that are platform netural.",
+  "main": "main.js",
+  "moduleType": [
+    "amd"
+  ],
+  "authors": [
+    "Chris Elston <celston@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
